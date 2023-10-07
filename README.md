@@ -1,0 +1,1 @@
+# PracticajpaHibernate-HQL
